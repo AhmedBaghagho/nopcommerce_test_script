@@ -14,8 +14,5 @@ This project contains automated tests for user registration and login on the nop
    ```bash
    mvn clean install
 
-## Running Tests
-To run the tests, execute the following command:
-
 ## Test Data
 The test data is stored in the `test-data` directory and read by the data provider class during test execution.
