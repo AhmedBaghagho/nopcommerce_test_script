@@ -5,9 +5,9 @@ This project contains automated tests for user registration and login on the nop
 
 ## Setup Instructions
 1. Clone the repository:
-   git clone https://github.com/your-username/nopcommerce-automation.git
+   git clone https://github.com/AhmedBaghagho/nopcommerce_test_script.git
 2. Navigate to the project directory:
-   cd nopcommerce-automation
+   cd nopcommerce_test_script
 3. Install dependencies using Maven:
    mvn clean install
 
