@@ -17,7 +17,7 @@ public class NopCommerceTest {
 
     public static void main(String[] args) {
         // Set the system property for Edge WebDriver
-        System.setProperty("webdriver.edge.driver", "D:\\edgedriver_win64\\msedgedriver.exe");
+        System.setProperty("webdriver.edge.driver", "WebDriver/msedgedriver.exe");
 
         // Create a new instance of EdgeDriver
         WebDriver driver = new EdgeDriver();
